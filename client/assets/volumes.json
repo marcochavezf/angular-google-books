@@ -1,0 +1,749 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1289,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "XaGNAQAAQBAJ",
+   "etag": "PoV21N/OFjc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XaGNAQAAQBAJ",
+   "volumeInfo": {
+    "title": "Essentialism",
+    "subtitle": "The Disciplined Pursuit of Less",
+    "authors": [
+     "Greg McKeown"
+    ],
+    "publisher": "Crown Business",
+    "publishedDate": "2014-04-15",
+    "description": "INSTANT NEW YORK TIMES AND WALL STREET JOURNAL BESTSELLER Have you ever found yourself stretched too thin? Do you simultaneously feel overworked and underutilized? Are you often busy but not productive? Do you feel like your time is constantly being hijacked by other people’s agendas? If you answered yes to any of these, the way out is the Way of the Essentialist. The Way of the Essentialist isn’t about getting more done in less time. It’s about getting only the right things done. It is not a time management strategy, or a productivity technique. It is a systematic discipline for discerning what is absolutely essential, then eliminating everything that is not, so we can make the highest possible contribution towards the things that really matter. By forcing us to apply a more selective criteria for what is Essential, the disciplined pursuit of less empowers us to reclaim control of our own choices about where to spend our precious time and energy – instead of giving others the implicit permission to choose for us. Essentialism is not one more thing – it’s a whole new way of doing everything. A must-read for any leader, manager, or individual who wants to learn who to do less, but better, in every area of their lives, Essentialism is a movement whose time has come. From the Hardcover edition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780804137393"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0804137390"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 413,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XaGNAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XaGNAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=XaGNAQAAQBAJ&printsec=frontcover&dq=Essentialism&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=XaGNAQAAQBAJ&dq=Essentialism&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Essentialism.html?hl=&id=XaGNAQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id=XaGNAQAAQBAJ&dq=Essentialism&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.299E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.299E7,
+       "currencyCode": "USD"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Essentialism-sample-epub.acsm?id=XaGNAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=XaGNAQAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A must-read for any leader, manager, or individual who wants to learn who to do less, but better, in every area of their lives, Essentialism is a movement whose time has come. From the Hardcover edition."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nEyqnQEACAAJ",
+   "etag": "8efnEVMShNk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nEyqnQEACAAJ",
+   "volumeInfo": {
+    "title": "Essentialism",
+    "subtitle": "The Disciplined Pursuit of Less",
+    "authors": [
+     "Greg McKeown"
+    ],
+    "publisher": "Crown Business",
+    "publishedDate": "2014",
+    "description": "Outlines a systematic framework for enabling greater productivity without overworking, sharing strategies on how to eliminate unnecessary tasks while streamlining essential employee functions. By the co-author of the best-selling Multipliers. 75,000 first printing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0804137382"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780804137386"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 260,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 413,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nEyqnQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nEyqnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=nEyqnQEACAAJ&dq=Essentialism&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=nEyqnQEACAAJ&dq=Essentialism&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Essentialism.html?hl=&id=nEyqnQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=nEyqnQEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Outlines a systematic framework for enabling greater productivity without overworking, sharing strategies on how to eliminate unnecessary tasks while streamlining essential employee functions."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pK7PBQAAQBAJ",
+   "etag": "LMObVtBfhrU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pK7PBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Essentialism",
+    "subtitle": "The Disciplined Pursuit of Less",
+    "authors": [
+     "Greg McKeown"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2014",
+    "description": "Have you ever found yourself struggling with information overload? Have you ever felt both overworked and underutilised? Do you ever feel busy but not productive? If you answered yes to any of these, the way out is to become an Essentialist. In Essentialism, Greg McKeown, CEO of a Leadership and Strategy agency in Silicon Valley who has run courses at Apple, Google and Facebook, shows you how to achieve what he calls the disciplined pursuit of less. Being an Essentialist is about a disciplined way of thinking. It means challenging the core assumption of 'We can have it all' and 'I have to do everything' and replacing it with the pursuit of 'the right thing, in the right way, at the right time'. By applying a more selective criteria for what is essential, the pursuit of less allows us to regain control of our own choices so we can channel our time, energy and effort into making the highest possible contribution toward the goals and activities that matter. Using the experience and insight of working with the leaders of the most innovative companies and organisations in the world, McKeown shows you how to put Essentialism into practice in your own life, so you too can achieve something great.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780753555163"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0753555166"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 260,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 413,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pK7PBQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pK7PBQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=pK7PBQAAQBAJ&dq=Essentialism&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=pK7PBQAAQBAJ&dq=Essentialism&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Essentialism.html?hl=&id=pK7PBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=pK7PBQAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In Essentialism, Greg McKeown, CEO of a Leadership and Strategy agency in Silicon Valley who has run courses at Apple, Google and Facebook, shows you how to achieve what he calls the disciplined pursuit of less."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8hPxo3VbRk8C",
+   "etag": "exwFfbuHnHc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8hPxo3VbRk8C",
+   "volumeInfo": {
+    "title": "Essentialism",
+    "subtitle": "A Wittgensteinian Critique",
+    "authors": [
+     "Garth L. Hallett"
+    ],
+    "publisher": "SUNY Press",
+    "publishedDate": "1991",
+    "description": "After tracing the recent decline in explicitly essentialistic theories, Hallett (Dean of the College of Philosophy and letters, St. Louis U.) critically surveys the essentialism still strongly operative in much philosophical reasoning, then undertakes a fuller inquiry into the sources of essentialism than has previously been attempted. Paper edition (unseen), $16.95. Annotation copyrighted by Book News, Inc., Portland, OR",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "079140773X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780791407738"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 237,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8hPxo3VbRk8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8hPxo3VbRk8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=8hPxo3VbRk8C&printsec=frontcover&dq=Essentialism&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=8hPxo3VbRk8C&dq=Essentialism&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Essentialism.html?hl=&id=8hPxo3VbRk8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Essentialism-sample-epub.acsm?id=8hPxo3VbRk8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Essentialism-sample-pdf.acsm?id=8hPxo3VbRk8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=8hPxo3VbRk8C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "After tracing the recent decline in explicitly essentialistic theories, Hallett (Dean of the College of Philosophy and letters, St. Louis U.) critically surveys the essentialism still strongly operative in much philosophical reasoning, then ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SpBLHjH8Vv8C",
+   "etag": "k8XWFqFs6aA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SpBLHjH8Vv8C",
+   "volumeInfo": {
+    "title": "Scientific Essentialism",
+    "authors": [
+     "Brian Ellis"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "2001-04-09",
+    "description": "Examines the laws of nature.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521800943"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521800945"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 309,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=SpBLHjH8Vv8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=SpBLHjH8Vv8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=SpBLHjH8Vv8C&printsec=frontcover&dq=Essentialism&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=SpBLHjH8Vv8C&dq=Essentialism&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Scientific_Essentialism.html?hl=&id=SpBLHjH8Vv8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=SpBLHjH8Vv8C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Examines the laws of nature."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "O0pqmkvkhtIC",
+   "etag": "ZsRZdnYmTcI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/O0pqmkvkhtIC",
+   "volumeInfo": {
+    "title": "Real Essentialism",
+    "authors": [
+     "David S. Oderberg"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2007-11-13",
+    "description": "Real Essentialism presents a comprehensive defence of neo-Aristotelian essentialism. Do objects have essences? Must they be the kinds of things they are in spite of the changes they undergo? Can we know what things are really like – can we define and classify reality? Many if not most philosophers doubt this, influenced by centuries of empiricism, and by the anti-essentialism of Wittgenstein, Quine, Popper, and other thinkers. Real Essentialism reinvigorates the tradition of realist, essentialist metaphysics, defending the reality and knowability of essence, the possibility of objective, immutable definition, and its relevance to contemporary scientific and metaphysical issues such as whether essence transcends physics and chemistry, the essence of life, the nature of biological species, and the nature of the person.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781134348855"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1134348851"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 328,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=O0pqmkvkhtIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=O0pqmkvkhtIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=O0pqmkvkhtIC&printsec=frontcover&dq=Essentialism&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=O0pqmkvkhtIC&dq=Essentialism&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Real_Essentialism.html?hl=&id=O0pqmkvkhtIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=O0pqmkvkhtIC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Real Essentialism presents a comprehensive defence of neo-Aristotelian essentialism."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uWWdAAAAMAAJ",
+   "etag": "KkWWWgOSt8c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uWWdAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Essentialism",
+    "subtitle": "Common Sense Quality Improvement",
+    "authors": [
+     "Desna L. Wallin",
+     "Jon R. Ryan"
+    ],
+    "publisher": "Community College Pr/Amer Assoc",
+    "publishedDate": "1994-01-01",
+    "description": "Essentialism is a trimmed down, action-oriented, user-friendly approach to Total Quality Management (TQM) in education. This book explores the concept of essentialism to describe strategies for implementing TQM in community colleges. Chapter 1 examines the history of the TQM movement and reviews experiences of community college practitioners involved in continuous quality initiatives. Chapter 2 discusses management theories and change, TQM's pioneers, and the importance of TQM in community colleges. Chapter 3 explains the two guiding principles of essentialism, constancy of purpose and consumer satisfaction, while chapter 4 reviews the theory's three basic elements: accept regulatory requirements; attend to current customer needs; and anticipate the needs of future customers. Chapter 5 describes four essential elements to create a receptive environment for implementing essentialism, including strategic planning that continuously renews the college mission, environmental planning, leadership, and support for empowered teams and individuals. Chapter 6 describes the use of such traditional TQM tools as flow charts, Pareto charts, and fishbone diagrams, while chapter 7 presents eight new tools, including stairsteps analysis of the number of steps in a given goal; wallpapering, or a physical display of all paperwork necessary in a process on a wall; and the repetitive \"why.\" Chapter 8 examines implementation strategies including teambuilding, project selection, and common pitfalls, while the final chapter summarizes the principles and elements of essentialism and suggests that since few colleges have the human and financial resources necessary to implement a full-blown TQM plan, essentialism provides a viable alternative. (Contains 57 references.) (KP)",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015033985147"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 121,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=uWWdAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=uWWdAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=uWWdAAAAMAAJ&q=Essentialism&dq=Essentialism&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=uWWdAAAAMAAJ&dq=Essentialism&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Essentialism.html?hl=&id=uWWdAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=uWWdAAAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Essentialism is a trimmed down, action-oriented, user-friendly approach to Total Quality Management (TQM) in education. This book explores the concept of essentialism to describe strategies for implementing TQM in community colleges."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CvPWAAAAMAAJ",
+   "etag": "RUw1cTkFDik",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CvPWAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Essentialism",
+    "subtitle": "structuring private spirituality, a philosophy of the presence",
+    "authors": [
+     "John E. Whiteford Boyle",
+     "Academy of Independent Scholars"
+    ],
+    "publishedDate": "2000-12-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015050773038"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CvPWAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CvPWAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=CvPWAAAAMAAJ&q=Essentialism&dq=Essentialism&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=CvPWAAAAMAAJ&dq=Essentialism&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Essentialism.html?hl=&id=CvPWAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=CvPWAAAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WGLfBQAAQBAJ",
+   "etag": "MIfZVYth4m8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WGLfBQAAQBAJ",
+   "volumeInfo": {
+    "title": "The Philosophy of Nature",
+    "subtitle": "A Guide to the New Essentialism",
+    "authors": [
+     "Brian Ellis"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2014-12-18",
+    "description": "In \"The Philosophy of Nature,\" Brian Ellis provides a clear and forthright general summation of, and introduction to, the new essentialist position. Although the theory that the laws of nature are immanent in things, rather than imposed on them from without, is an ancient one, much recent work has been done to revive interest in essentialism and \"The Philosophy of Nature\" is a distinctive contribution to this lively current debate. Brian Ellis exposes the philosophical and scientific credentials of the prevailing Humean metaphysic as less than compelling and makes the case for new essentialism as an alternative metaphysical perspective in lucid and unambiguous terms. This book develops this alternative metaphysic and considers the consequences for philosophy, and for some other areas of investigation, of working with such a metaphysic. Ellis argues that these consequences are profound and that a new essentialism provides a comprehensive new philosophy of nature for a modern scientific understanding of the world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781317489504"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1317489500"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WGLfBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WGLfBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=WGLfBQAAQBAJ&printsec=frontcover&dq=Essentialism&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=WGLfBQAAQBAJ&dq=Essentialism&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/The_Philosophy_of_Nature.html?hl=&id=WGLfBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=WGLfBQAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book develops this alternative metaphysic and considers the consequences for philosophy, and for some other areas of investigation, of working with such a metaphysic."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "H_1NCwAAQBAJ",
+   "etag": "zVOwHq+p3GI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/H_1NCwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Essential Child: Origins of Essentialism in Everyday Thought",
+    "authors": [
+     "Susan A. Gelman"
+    ],
+    "publisher": "Oxford University Press",
+    "publishedDate": "2005-03-24",
+    "description": "Essentialism is the idea that certain categories, such as \"dog,\" \"man,\" or \"intelligence,\" have an underlying reality or true nature that gives objects their identity. Where does this idea come from? In this book, Susan Gelman argues that essentialism is an early cognitive bias. Young children's concepts reflect a deep commitment to essentialism, and this commitment leads children to look beyond the obvious in many converging ways: when learning words, generalizing knowledge to new category members, reasoning about the insides of things, contemplating the role of nature versus nurture, and constructing causal explanations. Gelman argues against the standard view of children as concrete or focused on the obvious, instead claiming that children have an early, powerful tendency to search for hidden, non-obvious features of things. She also attacks claims that children build up their knowledge of the world based on simple, associative learning strategies, arguing that children's concepts are embedded in rich folk theories. Parents don't explicitly teach children to essentialize; instead, during the preschool years, children spontaneously construct concepts and beliefs that reflect an essentialist bias. Essentialist accounts have been offered, in one form or another, for thousands of years, extending back at least to Aristotle and Plato. Yet this book is the first to address the issues surrounding essentialism from a psychological perspective. Gelman synthesizes over 15 years of empirical research on essentialism into a unified framework and explores the broader lessons that the research imparts concerning, among other things, human concepts, children's thinking, and the ways in which language influences thought. This volume will appeal to developmental, cognitive, and social psychologists, as well as to scholars in cognitive science and philosophy.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780190623500"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0190623500"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 392,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=H_1NCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=H_1NCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=H_1NCwAAQBAJ&pg=PT14&dq=Essentialism&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=H_1NCwAAQBAJ&dq=Essentialism&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/The_Essential_Child_Origins_of_Essential.html?hl=&id=H_1NCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 35.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 19.79,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id=H_1NCwAAQBAJ&dq=Essentialism&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.599E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.979E7,
+       "currencyCode": "USD"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Essential_Child_Origins_of_Essential-sample-epub.acsm?id=H_1NCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Essential_Child_Origins_of_Essential-sample-pdf.acsm?id=H_1NCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=H_1NCwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In any discussion of \u003cb\u003eessentialism\u003c/b\u003e, controversies rage. Is \u003cb\u003eessentialism\u003c/b\u003e in the world \u003cbr\u003e\nor in the mind? Is \u003cb\u003eessentialism\u003c/b\u003e innate in the infant (Atran, 1998) or “a late and \u003cbr\u003e\nsophisticated achievement” (Fodor, 1998, p. 159)? Is \u003cb\u003eessentialism\u003c/b\u003e a universal&nbsp;..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+<label>Use real data (Google Books API):
+  <input type="checkbox" ng-model="vm.useRealData">
+</label>
+
+<br/>
+
+<label>
+  Search terms: <input ng-disabled="!vm.useRealData" ng-model="vm.search"/>
+</label>
+
+<br/>
+
+<label>
+  Number of books to show: <input ng-disabled="!vm.useRealData" ng-model="vm.limitBooks"/>
+</label>
+
+<label>
+  <button ng-click="vm.updateBookList()">Update</button>
+</label>
+
+<div class="list-group">
+
+  <h2 data-ng-show="vm.loading">Loading...</h2>
+  <h4 data-ng-hide="vm.loading || vm.books.length">
+    <br>
+    No books
+  </h4>
+
+  <br/>
+  <br/>
+
+  <a ng-show="vm.books" data-ng-repeat="book in vm.books" class="list-group-item">
+      <table>
+        <td style="width: 300px">
+          <b>Title:</b> {{ book.volumeInfo.title }}
+        </td>
+        <td style="width: 300px">
+          <b>Authors:</b> {{ book.volumeInfo.authors.toString() }}</br>
+        </td>
+        <td>
+          <img ng-src="{{ book.volumeInfo.imageLinks.smallThumbnail }}" height="50">
+        </td>
+      </table>
+    <p class="list-group-item-heading" style="margin-bottom: 0;">
+    </p>
+
+    <small class="list-group-item-text">
+      <b>Description:</b>
+      {{ book.volumeInfo.description }}
+    </small>
+
+  </a>
+
+</div>
