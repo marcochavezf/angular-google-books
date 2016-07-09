@@ -6,7 +6,7 @@ Feature: Filter Google Books Results
   # This scenario validates I can filter the Google Books search results
     Given I navigate to the Angular Google Books page
     And I input "<number>" on the "Number of books to show:" field
-    And I select the "Update" button
+    When I select the "Update" button
     Then I will see a result list
     And the result list will contain "<number>" books
     Examples:
@@ -21,7 +21,7 @@ Feature: Filter Google Books Results
   # This scenario validates error handling for invalid data on the filter
     Given I navigate to the Angular Google Books page
     And I input "<data>" on the "Number of books to show:" field
-    And I select the "Update" button
+    When I select the "Update" button
     Then I will see a result list
     And the result list will contain "<number>" books
     Examples:
