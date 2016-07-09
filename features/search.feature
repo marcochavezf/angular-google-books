@@ -8,7 +8,7 @@ Feature: Search Google Books
     And I input "<search_criteria>" on the Search Box
     When I select the "Update" button
     Then I will see a result list
-    And the result list will contain 10 books
+    And the result list will contain "10" books
     And I will see a title for each book
     And I will see a cover picture for each book
     And I will see a description for each book
@@ -17,3 +17,18 @@ Feature: Search Google Books
     |gardening         |
     |second world war  |
     |car               |
+
+
+  Scenario Outline: Search Google Books - Negative - Invalid data
+  # This scenario validate error handling when searching with invalid criteria
+    Given I navigate to the Angular Google Books page
+    And I input "<search_criteria>" on the Search Box
+    When I select the "Update" button
+    Then I will see a result list
+    And the result list will contain "<number>" books
+    Examples:
+    |search_criteria                       |number   |
+    |*(#*$#                                |No books |
+    |                                      |10       |
+    |<test>                                |10       |
+    |reallylongstringjustoteststringlimits |No books |
