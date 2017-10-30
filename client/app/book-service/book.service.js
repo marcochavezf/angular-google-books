@@ -21,7 +21,7 @@
     var MOCK_DATA_ENDPOINT = 'assets/volumes.json';
 
     var service = {
-      getRealData: getRealData,
+      getBooksData: getBooksData,
       getMockData: getMockData
     };
 
@@ -30,13 +30,13 @@
     ////////////
 
     /**
-     * @name getRealData
+     * @name getBooksData
      * @desc Get books data from Google API
      * @param {Object} params Search terms {search} and number of books to show {limit}
      * @returns {Array}
      * @memberOf Factories.BookService
      */
-    function getRealData(params) {
+    function getBooksData(params) {
       params = params || {};
       var search = params.search || 'quilting';
       var limit = params.limit || 10;

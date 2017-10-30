@@ -66,7 +66,7 @@
           search: vm.search,
           limit: vm.limitBooks
         };
-        booksDataPromise = bookService.getRealData(params);
+        booksDataPromise = bookService.getBooksData(params);
       } else {
         booksDataPromise = bookService.getMockData();
       }
