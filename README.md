@@ -9,16 +9,18 @@ This project was generated with the [Angular Full-Stack Generator](https://githu
 - [Git](https://git-scm.com/)
 - [Node.js and npm](nodejs.org) Node ^4.2.3, npm ^2.14.7
 - [Bower](bower.io) (`npm install --global bower`)
-- [Ruby](https://www.ruby-lang.org) and then `gem install sass`
+- [Ruby 2.2.2 or newer](https://www.ruby-lang.org) and then `gem install bundler`
 - [Grunt](http://gruntjs.com/) (`npm install --global grunt-cli`)
 
 ### Developing
 
 1. Run `npm install` to install server dependencies.
 
-2. Run `bower install` to install front-end dependencies.
+2. Run `bundle install` to install ruby dependencies.
 
-3. Run `grunt serve` to start the development server. It should automatically open the client in your browser when ready.
+3. Run `bower install` to install front-end dependencies.
+
+4. Run `grunt serve` to start the development server. It should automatically open the client in your browser when ready.
 
 ## Build & development
 
@@ -27,3 +29,13 @@ Run `grunt build` for building and `grunt serve` for preview.
 ## Testing
 
 Running `npm test` will run the unit tests with karma.
+
+Running `bundle exec cucumber` will run the automated functional tests
+
+## Cucumber options
+
+If passing `IN_BROWSER=true` to the command line, cucumber will use selenium and a new (firefox) instance will start. The default driver is poltergeist and will use phantomjs.
+
+Using the `BASE_URL=<url>` option on the command line will make the tests run on the provided BASE_URL. The default url is localhost:9000
+For example if we want to run in a browser and pointing to a live site the command would be:
+`BASE_URL=https://angular-google-books.herokuapp.com/ IN_BROWSER=true bundle exec cucumber`
